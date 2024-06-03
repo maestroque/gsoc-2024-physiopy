@@ -3,10 +3,6 @@
 > **Intensity:**  
 > **Primary Goal**: 
 
-# Time Allocation
-
-### Other important tasks
-
 # Plans
 
 ### Pending from Previous Weeks

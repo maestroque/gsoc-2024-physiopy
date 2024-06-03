@@ -1,5 +1,5 @@
 > [!NOTE]  
-> **Dates:** 27/5 - 31/5  
+> **Dates:** 27/05 - 02/06  
 > **Intensity:** Low  
 > **Primary Goal**: Define peakdet and phys2denoise interoperability
 
