@@ -1,7 +1,7 @@
 > [!NOTE]  
 > **Dates:** 03/06 - 09/06  
-> **Intensity:**  Medium
-> **Primary Goal**: Migrate Physio as a physiopy-wide utility
+> **Intensity:**  Medium  
+> **Primary Goal**: Migrate Physio as a physiopy-wide utility  
 
 # Plans
 - Migrate the Physio object to [`physutils`](https://github.com/physiopy/physutils/tree/master)
