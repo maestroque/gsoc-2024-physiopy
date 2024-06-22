@@ -1,6 +1,6 @@
 > [!NOTE]  
-> **Dates:** 10/06 - 16/06  
-> **Intensity:** Low-Mid
+> **Dates:** 10/06 - 16/06   
+> **Intensity:** Low-Mid 
 > **Primary Goal**: Implement updated physutils usage in phys2denoise
 
 # Plans
@@ -20,6 +20,8 @@
 
 ---
 # Week sum-up
+- All unit tests updated for physutils
+- Initial draft of the phys2denoise Physio integration complete
 
 # Actions
 
