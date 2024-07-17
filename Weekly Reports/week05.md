@@ -13,6 +13,7 @@
 - `phys2denoise` PR merging after publishing `physutils`
 
 ### New Tasks
+- rectprops PR review https://github.com/physiopy/peakdet/pull/66
 
 ### Misc
 
@@ -21,7 +22,9 @@
 
 ---
 # Week sum-up
+- Initial load_from_bids implementation
 
 # Actions
+- Move forward completing the docs for phys2denoise
 
 # Remarks
